@@ -64,31 +64,29 @@ Tak jak widać na powyższym obrazku - bieganie może być naprawdę tanie lub j
 
 Mężczyźni
 
-| Dystans       | Czas          | Kto      |
+| Dystans       | Czas          | Osoba    |
 | ------------- |:-------------:| --------:|
-| 100 m         |
-| 1,5 km        |
-| 5 km          | 10 lat 	      | 15 lat   | 
-| 10 km       	| 24 lata  | 
-| 15 km         | 25 lat   |
-| 21,095 km     | 25 lat   |
-| 42,195 km     | 28 lat        | 28 lat   |
+| 100 m         | 9,58          |Usain Bolt|
+| 1,5 km        | 3:26,00       |Hicham El Guerrouj|
+| 5 km          | 12:37,35      |Kenenisa Bekele  | 
+| 10 km       	| 26:17,53      |Kenenisa Bekele
+| 21,975 km     | 58:23         |Zersenay Tadese|
+| 42,195 km     | 2:02:57       |Dennis Kimetto   |
 
 Kbiety
 
 | Dystans       | Czas          | Kto      |
 | ------------- |:-------------:| --------:|
-| 100 m         |
-| 1,5 km        |
-| 5 km          | 10 lat 	      | 15 lat   | 
-| 10 km       	| 24 lata  | 
-| 15 km         | 25 lat   |
-| 21,095 km     | 25 lat   |
-| 42,195 km     | 28 lat        | 28 lat   |
+| 100 m         | 10,49         |Florence Griffith-Joyner|
+| 1,5 km        | 3:50,07       |Genzebe Dibaba|
+| 5 km          | 14:11,15      | Tirunesh Dibaba| 
+| 10 km       	| 29:17,45      | Almaz Ayana|
+| 21,975km      | 1:05:06       |Peres Jechirchir|
+| 42,195 km     | 2:15:25        | Paula Radcliffe|
 
 
-                                                                              (źródło: samantalec.blog.onet.pl)
+                                                                              (źródło: https://pl.wikipedia.org/wiki/Rekordy_%C5%9Bwiata_w_lekkoatletyce)
 
-![Łapki] (http://posokowce.org.pl/wp-content/uploads/2015/06/LAPKI.jpg)
+![Kcal w biegu] (http://1.bp.blogspot.com/-Dt2WxHk68zI/VDO0OmeUe1I/AAAAAAAABH0/qgQunn4uEwE/s1600/bieganie_spalone_kalorie1.png)
 
-                                                                              (źródło: przeglądarka google)
+                                                                              (źródło: http://dzixonafit.blogspot.com/)
