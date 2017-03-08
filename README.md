@@ -64,7 +64,7 @@ Tak jak widać na powyższym obrazku - bieganie może być naprawdę tanie lub j
 
 Mężczyźni
 
-| Dystans       | Czas          | Osoba    |
+| Dystans       | Czas          | Zawodnik    |
 | ------------- |:-------------:| --------:|
 | 100 m         | 9,58          |Usain Bolt|
 | 1,5 km        | 3:26,00       |Hicham El Guerrouj|
@@ -75,7 +75,7 @@ Mężczyźni
 
 Kbiety
 
-| Dystans       | Czas          | Kto      |
+| Dystans       | Czas          | Zawodnik     |
 | ------------- |:-------------:| --------:|
 | 100 m         | 10,49         |Florence Griffith-Joyner|
 | 1,5 km        | 3:50,07       |Genzebe Dibaba|
