@@ -4,11 +4,11 @@ Blog biegowy
 ## Bieganie 
 Bieganie to prosty sport. Często mówi się, że najprostszy z możliwych. Jednak gdy przeciętny śmiertelnik posłucha rozmowy dwóch, ostro wkręconych w temat biegania, maratończyków to zastanawia się czy faktycznie rozmawiają oni po polsku. Powiedzmy, że jeden mówi tak: >*"Stary! To była rzeźnia. Pejs leciał równo, ale po dwudziestym odezwało się pasmo i żeby zmniejszyć dyskomfort, to starałem się robić lepszą kołyskę. No wiesz – supinować mocniej. Po agrafce wciąłem żelka, żeby nie zderzyć się ze ścianą. Na bufecie złapałem jakieś izo i wodę. Po trzydziestym Garmin pokazywał, że wchodzę już w trzeci zakres, chociaż nie robiłem żadnych głupich interwałów – trzymałem rytm. Powiem ci, że noga już pod koniec nie podawała.Ostatni kilometr biegłem ile fabryka dała, chociaż nie miałem szans na PB. Chyba trochę zaniedbałem core i dlatego w drugiej połówce nie było lekkości…Generalnie fajna impreza. Było z kim biegać…" *
 
-                                                                                (źródło: http://trizarza.pl/2014/10/biegowe-terminy/)
+                                (źródło: http://trizarza.pl/2014/10/biegowe-terminy/)
 
 ![Bieganie poranne] (https://ocdn.eu/pulscms-transforms/1/nj7ktkpTURBXy85MjM1ZTc0MTU4MzgwMDEzYjliZTYzMjJmZTMyMzM3Yi5qcGeSlQMAI80D6M0CMpMFzQMgzQHC)
 
-                                                                                (źródło: http://facet.onet.pl/forma/)
+                                (źródło: http://facet.onet.pl/forma/)
         
 Reakreacyjne bieganie dla zdrowia dostarcza organizmowi wielu korzyści. Docenili je już dawno Amerykanie - w samym Nowym Jorku biega więcej ludzi niż w całej Polsce, dzięki temu w USA odnotowano wyraźny spadek liczby zawałów i chorób niedokrwiennych serca. Biegając, możesz zapobiegać osteoporozie, cukrzycy, chorobom serca, nowotworom, nerwicom, depresji i wielu innym cywilizacyjnym zmorom.
 
@@ -24,7 +24,7 @@ Reakreacyjne bieganie dla zdrowia dostarcza organizmowi wielu korzyści. Docenil
 
 ![Ubiór] (http://bi.gazeta.pl/im/0c/4a/ff/z16730636Q,Ile-kosztuje-bieganie--To-zalezy---.jpg)
 
-                                                                                (źródło: http://polskabiega.sport.pl/polskabiega/1,105612,16730629,Ile_kosztuje_bieganie_.html)
+                                (źródło: http://polskabiega.sport.pl/polskabiega/1,105612,16730629,Ile_kosztuje_bieganie_.html)
         
 Tak jak widać na powyższym obrazku - bieganie może być naprawdę tanie lub jeśli ktoś lubi gadżety, nowoczesny ubiór i sprzęt. Tak naprawdę wartość ubioru nie jest wyznacznikiem wartości biegacza. Często ten biegacz po prawej to osoba lansująca się, niby wychodzi pobiegać, ale w tym czasie zrobi sobie więcej zdjęć niż przebiegnie kilometrów, a wszystko to dlatego, że bieganie jest modne i chcą mieć dużo "lajków" na portalach społecznościowych
 
@@ -40,12 +40,12 @@ Tak jak widać na powyższym obrazku - bieganie może być naprawdę tanie lub j
 
 >*Jeśli biegasz jesteś biegaczem. I nie ma znaczenia jak szybko ani jak daleko biegasz. Nie ma znaczenia czy dziś jest Twój pierwszy dzień czy biegasz już dwadzieścia lat. Tu nie ma żadnego testu, licencji ani karty członkowskiej. Po prostu biegasz.* John Bingham
                 
-                                                                               (źródło: ramotowscy.pl)
+                                                                              
 
 
 ![Motywacja] (http://napieramy.pl/wp-content/uploads/2014/01/motywator_52d6ba1ed6db12.02418970-600x336.jpg)
 
-                                                                                  (źródło: http://napieramy.pl/bieganie-17/)
+                                (źródło: http://napieramy.pl/bieganie-17/)
 
 
 ## **Korzyści z biegania:** 
@@ -73,7 +73,7 @@ Mężczyźni
 | 21,975 km     | 58:23         |Zersenay Tadese|
 | 42,195 km     | 2:02:57       |Dennis Kimetto   |
 
-Kbiety
+Kobiety
 
 | Dystans       | Czas          | Zawodnik     |
 | ------------- |:-------------:| --------:|
@@ -85,8 +85,9 @@ Kbiety
 | 42,195 km     | 2:15:25        | Paula Radcliffe|
 
 
-                                                                              (źródło: https://pl.wikipedia.org/wiki/Rekordy_%C5%9Bwiata_w_lekkoatletyce)
+
+                                (źródło: https://pl.wikipedia.org/wiki/Rekordy_%C5%9Bwiata_w_lekkoatletyce)
 
 ![Kcal w biegu] (http://1.bp.blogspot.com/-Dt2WxHk68zI/VDO0OmeUe1I/AAAAAAAABH0/qgQunn4uEwE/s1600/bieganie_spalone_kalorie1.png)
 
-                                                                              (źródło: http://dzixonafit.blogspot.com/)
+                                (źródło: http://dzixonafit.blogspot.com/)
