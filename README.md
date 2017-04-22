@@ -6,7 +6,7 @@ Bieganie to prosty sport. Często mówi się, że najprostszy z możliwych. Jedn
 
             (źródło: http://trizarza.pl/2014/10/biegowe-terminy/)
 
-![Bieganie poranne] (https://github.com/Mariusz19x/Running/blob/master/zdj1.jpg)
+![Bieganie poranne] (zdj1.jpg)
 
             (źródło: http://facet.onet.pl/forma/)
         
