@@ -22,7 +22,7 @@ Reakreacyjne bieganie dla zdrowia dostarcza organizmowi wielu korzyści. Docenil
 5. Znajdź motywację - by regularnie trenować, dołącz do kogoś lub umów się z kimś, że będziecie razem biegać. Będzie to dla Ciebie motywacja, że musisz wyjść, bo ktoś czeka. Zapisz się na zawody
 
 
-![Ubiór] (http://bi.gazeta.pl/im/0c/4a/ff/z16730636Q,Ile-kosztuje-bieganie--To-zalezy---.jpg)
+![Ubiór](zdj2.jpg)
 
             (źródło: http://polskabiega.sport.pl/polskabiega/1,105612,16730629,Ile_kosztuje_bieganie_.html)
         
