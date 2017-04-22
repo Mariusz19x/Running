@@ -43,7 +43,7 @@ Tak jak widać na powyższym obrazku - bieganie może być naprawdę tanie lub j
                                                                               
 
 
-![Motywacja] (http://napieramy.pl/wp-content/uploads/2014/01/motywator_52d6ba1ed6db12.02418970-600x336.jpg)
+![Motywacja] (zdj3.jpg)
 
             (źródło: http://napieramy.pl/bieganie-17/)
 
@@ -88,6 +88,6 @@ Kobiety
 
             (źródło: https://pl.wikipedia.org/wiki/Rekordy_%C5%9Bwiata_w_lekkoatletyce)
 
-![Kcal w biegu] (http://1.bp.blogspot.com/-Dt2WxHk68zI/VDO0OmeUe1I/AAAAAAAABH0/qgQunn4uEwE/s1600/bieganie_spalone_kalorie1.png)
+![Kcal w biegu] (zdj4.png)
 
             (źródło: http://dzixonafit.blogspot.com/)
